@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diablo4.Api", "Diablo4.Api\Diablo4.Api.csproj", "{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
