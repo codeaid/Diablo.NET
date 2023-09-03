@@ -13,6 +13,7 @@ bld/
 
 # JetBrains Rider
 .idea/
+*.DotSettings.user
 *.sln.iml
 riderModule.iml
 
