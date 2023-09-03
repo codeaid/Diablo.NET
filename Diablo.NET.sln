@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diablo4.Api", "Diablo4.Api\Diablo4.Api.csproj", "{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diablo4.Shared", "Diablo4.Shared\Diablo4.Shared.csproj", "{7D68918D-E265-4A08-82D6-FAF4B350FA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEB9E5CC-7BC6-43F8-995A-69DDEBF49485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D68918D-E265-4A08-82D6-FAF4B350FA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D68918D-E265-4A08-82D6-FAF4B350FA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D68918D-E265-4A08-82D6-FAF4B350FA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D68918D-E265-4A08-82D6-FAF4B350FA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
